@@ -1,0 +1,10 @@
+.negrita {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+mainPrincipal {
+    width: 600px;
+    background-color: green;
+    margin: 0 auto; /* centrar el bloque */
+}
